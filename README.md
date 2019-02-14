@@ -10,3 +10,5 @@ There were some student puzzles that needed to be changed to be solved.
 - Puzzle 2 has an issue where there were two 9's in one row. Fixed by changing them both to 0
 - Puzzle 3 line 8 had a 9 that looks like a 4
 - Puzzle 4 has an unknown issue, so currently is unsolvable. 
+
+# Complexity Analysis
